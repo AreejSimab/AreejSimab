@@ -3,7 +3,7 @@
 <img src="assets/banner.png" alt="Areej Simab - Data Science and Data Analytics" width="100%"/>
 
 <a href="https://github.com/AreejSimab">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=BSc+(Hons)+Computing+Student;Data+Science+%26+Machine+Learning+with+Python+%F0%9F%A7%A0;Data+Analytics+with+SQL%2C+Power+BI+%26+Excel+%F0%9F%93%8A;Turning+data+into+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=BSc+(Hons)+Computer+Science;Data+Science+%26+Machine+Learning+with+Python+%F0%9F%A7%A0;Data+Analytics+with+SQL%2C+Power+BI+%26+Excel+%F0%9F%93%8A;Turning+data+into+insights" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,16 +31,16 @@
 
 ## 👋 About Me
 
-**Hi, I'm Areej!** I'm a **BSc (Hons) Computing student** with a passion for data, technology and problem solving.
+**Hi, I'm Areej!** I'm a **BSc (Hons) Computer Science student** with a passion for data, technology and problem solving.
 
 My main focus is **data science and data analytics**: cleaning and exploring data, building dashboards in **Power BI**, and training machine learning models in **Python**. Alongside that, I enjoy software development, from desktop applications to websites, and I'm exploring cloud technologies to understand how modern systems are built and run.
 
 I learn best by building practical things, and I care about results that are clear, honest and easy to explain.
 
-- 🎓 **Studying:** BSc (Hons) Computing
+- 🎓 **Studying:** BSc (Hons) Computer Science
 - 📊 **Main focus:** data analytics, visualisation and machine learning
 - 💻 **Also enjoy:** building applications and websites
-- ☁️ **Exploring:** cloud technologies
+- ☁️ **Exploring:** Advanced Machine Learning
 - 🌱 **Learning next:** feature engineering, cross-validation and time-series models
 - 🤝 **Open to:** collaboration and learning opportunities in data science and analytics
 
@@ -53,7 +53,7 @@ I learn best by building practical things, and I care about results that are cle
 - 📈 **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
 - 🧹 **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
 - 💻 **Software & web development:** building practical applications and websites
-- ☁️ **Cloud:** hands-on practice setting up and managing cloud infrastructure
+  
 
 ---
 
@@ -71,21 +71,21 @@ I learn best by building practical things, and I care about results that are cle
 
 <div align="center">
 
-**🧠 Data Science & Machine Learning**
+**Data Science & Machine Learning**
 
 <img src="assets/skills/data-science.png" width="720" alt="Python, pandas, NumPy, scikit-learn, Jupyter, Kaggle"/>
 
-**📊 Data Analytics & Visualisation**
+**Data Analytics & Visualisation**
 
 <img src="assets/skills/analytics.png" width="720" alt="Power BI, Excel, SQL, Matplotlib, Seaborn"/>
 
-**💻 Programming & Web**
+**Programming & Web**
 
-<img src="assets/skills/languages.png" width="720" alt="Java, HTML5, CSS3, JavaScript"/>
+<img src="assets/skills/languages.png" width="350" alt=" HTML5, CSS3, JavaScript"/>
 
-**🧰 Tools & Platforms**
+**Tools & Platforms**
 
-<img src="assets/skills/tools.png" width="720" alt="Git, GitHub, VS Code, AWS, Markdown"/>
+<img src="assets/skills/tools.png" width="220" alt="GitHub, VS Code"/>
 
 </div>
 
