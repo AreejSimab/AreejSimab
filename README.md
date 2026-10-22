@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/areej-simab-3718502a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:areejsimab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/AreejSimab?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <img src="https://komarev.com/ghpvc/?username=AreejSimab&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
 
@@ -48,21 +48,21 @@ I learn best by building practical things, and I care about results that are cle
 
 ## 💡 What I Do
 
--  **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
--  **Machine learning:** building and evaluating predictive models in Python, from classification to regression
--  **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
--  **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
--  **Software & web development:** building practical applications and websites
+- 📊 **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
+- 🤖 **Machine learning:** building and evaluating predictive models in Python, from classification to regression
+- 📈 **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
+- 🧹 **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
+- 💻 **Software & web development:** building practical applications and websites
 
 ---
 
 ## 🧭 How I Work
 
--  **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
--  **Test fairly:** I evaluate results on data that was not used for training or tuning.
--  **Check the data first:** missing values, duplicates and odd values come before any analysis.
--  **Explain clearly:** I document my work and explain results in plain language, including the limitations.
--  **Keep improving:** I finish each piece of work by noting what I would do next.
+- 🎯 **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
+- 🧪 **Test fairly:** I evaluate results on data that was not used for training or tuning.
+- 🧹 **Check the data first:** missing values, duplicates and odd values come before any analysis.
+- 📝 **Explain clearly:** I document my work and explain results in plain language, including the limitations.
+- 🔁 **Keep improving:** I finish each piece of work by noting what I would do next.
 
 ---
 
@@ -307,8 +307,8 @@ HOW TO ADD A NEW PROJECT CARD
 
 Have a data project, an idea, or feedback on my work? I'd love to hear from you.
 
-<a href="www.linkedin.com/in/areej-simab-3718502a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.areejsimab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/areej-simab-3718502a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:areejsimab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <i>Thanks for visiting! ⭐ If you like a project, feel free to star the repo.</i>
 
