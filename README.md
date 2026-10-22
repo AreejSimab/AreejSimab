@@ -2,189 +2,130 @@
 
 <img src="assets/banner.png" alt="Areej Simab - Data Science and Data Analytics" width="100%"/>
 
-<!-- Animated typing text -->
 <a href="https://github.com/AreejSimab">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=BSc+(Hons)+Computing+Student;Data+Science+Intern;Data+Analytics+with+SQL%2C+Power+BI+%26+Excel;Machine+Learning+with+Python+%F0%9F%A7%A0;Turning+data+into+insights+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=BSc+(Hons)+Computer+Science;Data+Science+%26+Machine+Learning+with+Python+%F0%9F%A7%A0;Data+Analytics+with+SQL%2C+Power+BI+%26+Excel+%F0%9F%93%8A;Turning+data+into+insights" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/AreejSimab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/AreejSimab?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <img src="https://komarev.com/ghpvc/?username=AreejSimab&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
 
-<p><i>👇 Click the sections below to expand them 👇</i></p>
+<br/><br/>
+
+<b>
+<a href="#-about-me">About</a> &nbsp;•&nbsp;
+<a href="#-what-i-do">What I Do</a> &nbsp;•&nbsp;
+<a href="#-how-i-work">How I Work</a> &nbsp;•&nbsp;
+<a href="#-skills">Skills</a> &nbsp;•&nbsp;
+<a href="#-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-roadmap">Roadmap</a> &nbsp;•&nbsp;
+<a href="#-connect">Connect</a>
+</b>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-I'm a **BSc (Hons) Computing student** and **Data Science intern**. I clean and explore data, build dashboards, and train machine learning models in Python. I also check whether a model's results are really as good as they look, for example by comparing against a simple baseline.
+**Hi, I'm Areej!** I'm a **BSc (Hons) Computer Science Student Specialized in Software Engineering** with a passion for data, technology and problem solving.
 
-| | |
-| --- | --- |
-| 🎓 **Studying** | BSc (Hons) Computing |
-| 💼 **Doing** | Data Science internship (machine learning projects) |
-| 📊 **Focus** | Data analysis, visualisation and business intelligence |
-| 🔭 **Working on** | Supervised learning: classification and regression |
-| 🌱 **Learning next** | Feature engineering, cross-validation, time-series models (LSTM) |
-| 💬 **Ask me about** | Python, pandas, SQL, Power BI, scikit-learn, model evaluation |
+My main focus is **data science and data analytics**: cleaning and exploring data, building dashboards in **Power BI**, and training machine learning models in **Python**. Alongside that, I enjoy software development, from desktop applications to websites, and I'm exploring cloud technologies to understand how modern systems are built and run.
+
+I learn best by building practical things, and I care about results that are clear, honest and easy to explain.
+
+- 🎓 **Studying:** BSc (Hons) Computer Science
+- 📊 **Main focus:** data analytics, visualisation and machine learning
+- 💻 **Also enjoy:** building applications and websites
+- ☁️ **Exploring:** Advanced Machine Learning
+- 🌱 **Learning next:** feature engineering, cross-validation and time-series models
+- 🤝 **Open to:** collaboration and learning opportunities in data science and analytics
+
+---
+
+## 💡 What I Do
+
+- 📊 **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
+- 🤖 **Machine learning:** building and evaluating predictive models in Python, from classification to regression
+- 📈 **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
+- 🧹 **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
+- 💻 **Software & web development:** building practical applications and websites
+
+---
+
+## 🧭 How I Work
+
+- 🎯 **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
+- 🧪 **Test fairly:** I evaluate results on data that was not used for training or tuning.
+- 🧹 **Check the data first:** missing values, duplicates and odd values come before any analysis.
+- 📝 **Explain clearly:** I document my work and explain results in plain language, including the limitations.
+- 🔁 **Keep improving:** I finish each piece of work by noting what I would do next.
 
 ---
 
 ## 🛠️ Skills
 
-<details open>
-<summary><b>🧠 Data Science & Machine Learning</b></summary>
-<br/>
+<div align="center">
 
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/></a>
-<a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-<a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+**🧠 Data Science & Machine Learning**
 
-</details>
+<img src="assets/skills/data-science.png" width="720" alt="Python, pandas, NumPy, scikit-learn, Jupyter, Kaggle"/>
 
-<details open>
-<summary><b>📊 Data Analytics & Visualisation</b></summary>
-<br/>
+**📊 Data Analytics & Visualisation**
 
-<a href="https://powerbi.microsoft.com"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
-<a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
-<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/></a>
-<a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" alt="Seaborn"/></a>
+<img src="assets/skills/analytics.png" width="720" alt="Power BI, Excel, SQL, Matplotlib, Seaborn"/>
 
-</details>
+**💻 Programming & Web**
 
-<details>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
+<img src="assets/skills/languages.png" width="720" alt="Java, HTML5, CSS3, JavaScript"/>
 
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
-<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+**🧰 Tools & Platforms**
 
-</details>
+<img src="assets/skills/tools.png" width="720" alt="Git, GitHub, VS Code, AWS, Markdown"/>
 
-<details>
-<summary><b>🧰 Tools & Platforms</b></summary>
-<br/>
-
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
-<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-<a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
-
-</details>
-
-<details>
-<summary><b>🎯 What I can do (hands-on experience)</b></summary>
-<br/>
-
-| Area | Experience |
-| --- | --- |
-| 🧹 **Data cleaning** | Missing-value handling (median / most-frequent imputation), duplicate and data-quality checks |
-| 🔎 **Exploratory analysis** | Survival and price-trend analysis, charts with matplotlib and seaborn |
-| 📈 **Dashboards & BI** | Sales and inventory dashboards in Power BI |
-| ⚙️ **Preprocessing** | One-hot encoding, standardisation, stratified and time-based train/test splits |
-| 🤖 **Modelling** | Logistic Regression (classification), Linear Regression (regression) |
-| 📏 **Evaluation** | Accuracy, precision, recall, F1, confusion matrix, MAE, RMSE, R², **baseline comparison** |
-
-</details>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AreejSimab/titanic-survival-classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=titanic-survival-classification&theme=radical&hide_border=true" alt="Titanic Survival Classification"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AreejSimab/stock-price-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=stock-price-prediction&theme=radical&hide_border=true" alt="Stock Price Prediction"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🧠 Data Science & Machine Learning
+- 🚢 **Titanic Survival Classification:** predicts which passengers survived from age, sex, ticket class and fare (79.9% test accuracy). Built with Python, pandas and scikit-learn. [View the repository](https://github.com/AreejSimab/titanic-survival-classification)
+- 📈 **Apple Stock Price Prediction:** predicts the next day's closing price using a time-based split and compares the model with a simple baseline. Built with Python, pandas and scikit-learn. [View the repository](https://github.com/AreejSimab/stock-price-prediction)
 
-<details open>
-<summary><b>🚢 Titanic Survival Classification</b> — Data Science / Machine Learning</summary>
-<br/>
+### 📊 Data Analytics & Business Intelligence
+- 🛒 **Retail Analytics Dashboard:** Power BI dashboard that turns sales and inventory data into insights.
 
-Predicts which Titanic passengers survived using age, sex, ticket class and fare.
+### 💻 Software & Web Development
+- 🏎 **Car Racing Event Management System:** desktop application for managing race events and participants.
+- 🌐 **ABC Supermarket Website:** front-end e-commerce website for a supermarket.
 
-- **Result:** 79.9% test accuracy, 78.0% precision, 66.7% recall
-- **Finding:** women survived far more often than men (74.2% vs 18.9%), and survival fell with each step down in ticket class
-- **Stack:** Python, pandas, scikit-learn, seaborn
-- 👉 [View the repository](https://github.com/AreejSimab/titanic-survival-classification)
 
-</details>
+<!-- Add a link to each repo here once it is uploaded -->
 
-<details open>
-<summary><b>📈 Apple Stock Price Prediction</b> — Data Science / Machine Learning</summary>
-<br/>
-
-Predicts Apple's next-day closing price from 45 years of price history, using a time-based split.
-
-- **Result:** $1.50 average error, R² 0.9987
-- **Finding:** a naive "tomorrow = today" baseline scored almost the same, so I report the model's limits honestly
-- **Stack:** Python, pandas, scikit-learn, matplotlib
-- 👉 [View the repository](https://github.com/AreejSimab/stock-price-prediction)
-
-</details>
-
-<details open>
-<summary><b>📊 Retail Analytics Dashboard</b> — Data Analytics / BI</summary>
-<br/>
-
-Power BI dashboard that turns sales and inventory data into insights.
-
-<!-- Add: a screenshot and a link to the repo once it is uploaded -->
-
-</details>
-
-<details>
-<summary><b>🗂 More projects</b> — Software & Web</summary>
-<br/>
-
-- 🏎 **Car Racing Event Management System:** desktop application for managing race events and participants
-- 🌐 **ABC Supermarket Website:** front-end e-commerce website for a supermarket
-- ☁️ **Cloud Computing Labs:** hands-on exercises building and managing cloud infrastructure
-
-<!-- Add links to the repos once they are uploaded -->
-
-</details>
+👉 See everything on my [repositories page](https://github.com/AreejSimab?tab=repositories).
 
 ---
 
-## 🧭 Learning Roadmap
+## 🗺 Roadmap
 
-- [x] Data cleaning, exploration and visualisation with pandas, matplotlib and seaborn
-- [x] Classification with Logistic Regression ([Titanic](https://github.com/AreejSimab/titanic-survival-classification))
-- [x] Regression with a baseline comparison ([Stock prices](https://github.com/AreejSimab/stock-price-prediction))
-- [x] Dashboards in Power BI
+- [x] Data cleaning, exploration and visualisation
+- [x] Classification and regression models in Python
+- [x] Business dashboards in Power BI
+- [x] Desktop and web application development
+- [x] Hands-on cloud labs
 - [ ] Feature engineering and cross-validation
 - [ ] More models: Random Forest and gradient boosting
 - [ ] Time-series forecasting with LSTM
 - [ ] Advanced SQL analytics and more dashboards
+- [ ] Deeper cloud skills
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -208,9 +149,11 @@ Power BI dashboard that turns sales and inventory data into insights.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 <div align="center">
+
+Have a data project, an idea, or feedback on my work? I'd love to hear from you.
 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
