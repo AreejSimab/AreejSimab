@@ -112,58 +112,52 @@ I learn best by building practical things, and I care about results that are cle
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/AreejSimab/titanic-survival-classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=titanic-survival-classification&theme=radical&hide_border=true" alt="Titanic Survival Classification"/>
+  <img src="assets/Projects/titanic-survival.svg" width="400" alt="Titanic Survival Classification - 79.9% test accuracy, open the repository"/>
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/AreejSimab/stock-price-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=stock-price-prediction&theme=radical&hide_border=true" alt="Apple Stock Price Prediction"/>
+  <img src="assets/Projects/stock-prediction.svg" width="400" alt="Apple Stock Price Prediction - time-based split, open the repository"/>
 </a>
 </td>
 </tr>
 </table>
 </div>
-
 <details>
 <summary><b>🚢 Titanic Survival Classification</b> &nbsp;·&nbsp; <code>79.9% test accuracy</code> &nbsp;·&nbsp; <i>click for details</i></summary>
 <br/>
-
 Predicts which passengers survived the Titanic using age, sex, ticket class and fare.
-
+ 
 | | |
 |---|---|
 | **Type** | Classification |
 | **Result** | 79.9% accuracy on the test set |
 | **Features** | Age, sex, ticket class, fare |
-
+ 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
 <br/><br/>
 <a href="https://github.com/AreejSimab/titanic-survival-classification"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
-
+ 
 </details>
-
 <details>
 <summary><b>📈 Apple Stock Price Prediction</b> &nbsp;·&nbsp; <code>time-based split</code> &nbsp;·&nbsp; <i>click for details</i></summary>
 <br/>
-
 Predicts the next day's closing price for Apple stock. The data is split by time, so the model is never tested on the past, and results are compared with a simple baseline to check the model adds value.
-
+ 
 | | |
 |---|---|
 | **Type** | Regression / time-ordered prediction |
 | **Target** | Next day's closing price |
 | **Evaluation** | Time-based train/test split, compared with a simple baseline |
-
+ 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
 <br/><br/>
 <a href="https://github.com/AreejSimab/stock-price-prediction"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
-
+ 
 </details>
 
 ### 📊 Data Analytics & Business Intelligence
