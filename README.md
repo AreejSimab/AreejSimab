@@ -48,22 +48,21 @@ I learn best by building practical things, and I care about results that are cle
 
 ## 💡 What I Do
 
-- 📊 **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
-- 🤖 **Machine learning:** building and evaluating predictive models in Python, from classification to regression
-- 📈 **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
-- 🧹 **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
-- 💻 **Software & web development:** building practical applications and websites
-  
+-  **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
+-  **Machine learning:** building and evaluating predictive models in Python, from classification to regression
+-  **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
+-  **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
+-  **Software & web development:** building practical applications and websites
 
 ---
 
 ## 🧭 How I Work
 
-- 🎯 **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
-- 🧪 **Test fairly:** I evaluate results on data that was not used for training or tuning.
-- 🧹 **Check the data first:** missing values, duplicates and odd values come before any analysis.
-- 📝 **Explain clearly:** I document my work and explain results in plain language, including the limitations.
-- 🔁 **Keep improving:** I finish each piece of work by noting what I would do next.
+-  **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
+-  **Test fairly:** I evaluate results on data that was not used for training or tuning.
+-  **Check the data first:** missing values, duplicates and odd values come before any analysis.
+-  **Explain clearly:** I document my work and explain results in plain language, including the limitations.
+-  **Keep improving:** I finish each piece of work by noting what I would do next.
 
 ---
 
@@ -93,23 +92,173 @@ I learn best by building practical things, and I care about results that are cle
 
 ## 🚀 Projects
 
+<div align="center">
+
+<b>Jump to a category:</b><br/>
+<a href="#-data-science--machine-learning"><img src="https://img.shields.io/badge/🧠_Data_Science_%26_ML-6C63FF?style=for-the-badge" alt="Data Science and ML"/></a>
+<a href="#-data-analytics--business-intelligence"><img src="https://img.shields.io/badge/📊_Analytics_%26_BI-00C9A7?style=for-the-badge" alt="Analytics and BI"/></a>
+<a href="#-software--web-development"><img src="https://img.shields.io/badge/💻_Software_%26_Web-F5A623?style=for-the-badge" alt="Software and Web"/></a>
+
+<sub>👆 Click a card to open the repository &nbsp;•&nbsp; 👇 Click "Details" on a project to expand it</sub>
+
+</div>
+
+<br/>
+
 ### 🧠 Data Science & Machine Learning
-- 🚢 **Titanic Survival Classification:** predicts which passengers survived from age, sex, ticket class and fare (79.9% test accuracy). Built with Python, pandas and scikit-learn. [View the repository](https://github.com/AreejSimab/titanic-survival-classification)
-- 📈 **Apple Stock Price Prediction:** predicts the next day's closing price using a time-based split and compares the model with a simple baseline. Built with Python, pandas and scikit-learn. [View the repository](https://github.com/AreejSimab/stock-price-prediction)
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/AreejSimab/titanic-survival-classification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=titanic-survival-classification&theme=radical&hide_border=true" alt="Titanic Survival Classification"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/AreejSimab/stock-price-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=stock-price-prediction&theme=radical&hide_border=true" alt="Apple Stock Price Prediction"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary><b>🚢 Titanic Survival Classification</b> &nbsp;·&nbsp; <code>79.9% test accuracy</code> &nbsp;·&nbsp; <i>click for details</i></summary>
+<br/>
+
+Predicts which passengers survived the Titanic using age, sex, ticket class and fare.
+
+| | |
+|---|---|
+| **Type** | Classification |
+| **Result** | 79.9% accuracy on the test set |
+| **Features** | Age, sex, ticket class, fare |
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<br/><br/>
+<a href="https://github.com/AreejSimab/titanic-survival-classification"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
+
+</details>
+
+<details>
+<summary><b>📈 Apple Stock Price Prediction</b> &nbsp;·&nbsp; <code>time-based split</code> &nbsp;·&nbsp; <i>click for details</i></summary>
+<br/>
+
+Predicts the next day's closing price for Apple stock. The data is split by time, so the model is never tested on the past, and results are compared with a simple baseline to check the model adds value.
+
+| | |
+|---|---|
+| **Type** | Regression / time-ordered prediction |
+| **Target** | Next day's closing price |
+| **Evaluation** | Time-based train/test split, compared with a simple baseline |
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<br/><br/>
+<a href="https://github.com/AreejSimab/stock-price-prediction"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository"/></a>
+
+</details>
 
 ### 📊 Data Analytics & Business Intelligence
-- 🛒 **Retail Analytics Dashboard:** Power BI dashboard that turns sales and inventory data into insights.
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🛒_Retail_Analytics_Dashboard-00C9A7?style=for-the-badge" alt="Retail Analytics Dashboard"/>
+<br/><br/>
+<sub>Interactive dashboard that turns sales and inventory data into insights.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Repository-coming_soon-lightgrey?style=flat-square"/>
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary><b>🛒 Retail Analytics Dashboard</b> &nbsp;·&nbsp; <i>click for details</i></summary>
+<br/>
+
+A Power BI dashboard that presents sales and inventory data in one place, so the numbers become insights that people can act on.
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<!-- When ready, add a screenshot: <img src="assets/projects/retail-dashboard.png" width="100%" alt="Retail dashboard preview"/> -->
+<!-- And a link: <a href="https://github.com/AreejSimab/YOUR-REPO">View Repository</a> -->
+
+</details>
 
 ### 💻 Software & Web Development
-- 🏎 **Car Racing Event Management System:** desktop application for managing race events and participants.
-- 🌐 **ABC Supermarket Website:** front-end e-commerce website for a supermarket.
 
-### ☁️ Cloud
-- ☁️ **Cloud Computing Labs:** hands-on exercises building and managing cloud infrastructure.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🏎_Car_Racing_Event_Management-F5A623?style=for-the-badge" alt="Car Racing Event Management System"/>
+<br/><br/>
+<sub>Desktop application for managing race events and participants.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Repository-coming_soon-lightgrey?style=flat-square"/>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🌐_ABC_Supermarket_Website-F5A623?style=for-the-badge" alt="ABC Supermarket Website"/>
+<br/><br/>
+<sub>Front-end e-commerce website for a supermarket.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Repository-coming_soon-lightgrey?style=flat-square"/>
+</td>
+</tr>
+</table>
+</div>
 
-<!-- Add a link to each repo here once it is uploaded -->
+<details>
+<summary><b>🏎 Car Racing Event Management System</b> &nbsp;·&nbsp; <i>click for details</i></summary>
+<br/>
+
+A desktop application for managing race events and their participants.
+
+<!-- Add the tech badges you used, e.g. <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> -->
+
+</details>
+
+<details>
+<summary><b>🌐 ABC Supermarket Website</b> &nbsp;·&nbsp; <i>click for details</i></summary>
+<br/>
+
+A front-end e-commerce website for a supermarket, built with HTML, CSS and JavaScript.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</details>
+
+<!--
+HOW TO ADD A NEW PROJECT CARD
+1. Upload the repo to GitHub.
+2. Copy one of the <td> blocks above and swap in the repo name:
+   https://github-readme-stats.vercel.app/api/pin/?username=AreejSimab&repo=YOUR-REPO&theme=radical&hide_border=true
+3. Wrap the image in <a href="https://github.com/AreejSimab/YOUR-REPO"> so the whole card is clickable.
+-->
+
+<div align="center">
 
 👉 See everything on my [repositories page](https://github.com/AreejSimab?tab=repositories).
+
+</div>
 
 ---
 
