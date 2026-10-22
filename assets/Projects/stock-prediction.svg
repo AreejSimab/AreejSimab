@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="Apple Stock Price Prediction project card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f1d3a"/>
+      <stop offset="1" stop-color="#12111f"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6C63FF"/>
+      <stop offset="1" stop-color="#00C9A7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="417" height="227" rx="18" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="380" cy="30" r="70" fill="#6C63FF" opacity="0.08"/>
+
+  <!-- category -->
+  <rect x="24" y="22" width="150" height="22" rx="11" fill="#6C63FF" opacity="0.2"/>
+  <text x="99" y="37" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#9d97ff">DATA SCIENCE &amp; ML</text>
+
+  <!-- icon: trend line -->
+  <g transform="translate(332,22)">
+    <rect width="64" height="56" rx="12" fill="#ffffff" opacity="0.05"/>
+    <polyline points="12,42 24,32 32,36 44,20 52,14" fill="none" stroke="#00C9A7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="52" cy="14" r="3.5" fill="#9d97ff"/>
+  </g>
+
+  <!-- title -->
+  <text x="24" y="82" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff">Apple Stock Price Prediction</text>
+
+  <!-- description -->
+  <text font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#b8b6d6">
+    <tspan x="24" y="108">Predicts the next day's closing price and</tspan>
+    <tspan x="24" y="128">compares it with a simple baseline.</tspan>
+  </text>
+
+  <!-- tech pills -->
+  <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+    <rect x="24" y="144" width="62" height="24" rx="12" fill="none" stroke="#3776AB" stroke-width="1.5"/>
+    <text x="55" y="160" fill="#6fa8dc">Python</text>
+    <rect x="94" y="144" width="62" height="24" rx="12" fill="none" stroke="#9d97ff" stroke-width="1.5"/>
+    <text x="125" y="160" fill="#9d97ff">pandas</text>
+    <rect x="164" y="144" width="92" height="24" rx="12" fill="none" stroke="#F7931E" stroke-width="1.5"/>
+    <text x="210" y="160" fill="#F7931E">scikit-learn</text>
+  </g>
+
+  <!-- method badge -->
+  <g transform="translate(296,138)">
+    <rect width="100" height="34" rx="10" fill="#00C9A7" opacity="0.14"/>
+    <text x="50" y="15" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#00C9A7">EVALUATION</text>
+    <text x="50" y="30" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Time-based split</text>
+  </g>
+
+  <!-- divider -->
+  <line x1="24" y1="184" x2="396" y2="184" stroke="#ffffff" opacity="0.08"/>
+
+  <!-- status -->
+  <circle cx="34" cy="206" r="5" fill="#00C9A7"/>
+  <text x="48" y="210" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#00C9A7">View repository on GitHub  →</text>
+</svg>
