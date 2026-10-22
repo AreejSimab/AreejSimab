@@ -48,21 +48,21 @@ I learn best by building practical things, and I care about results that are cle
 
 ## 💡 What I Do
 
-- 📊 **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
-- 🤖 **Machine learning:** building and evaluating predictive models in Python, from classification to regression
-- 📈 **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
-- 🧹 **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
-- 💻 **Software & web development:** building practical applications and websites
+- **Data analysis & visualisation:** turning raw data into clear charts and findings that people can act on
+- **Machine learning:** building and evaluating predictive models in Python, from classification to regression
+- **Dashboards & business intelligence:** presenting sales and performance data in interactive Power BI dashboards
+- **Data preparation:** cleaning, checking and structuring messy data so the analysis can be trusted
+- **Software & web development:** building practical applications and websites
 
 ---
 
 ## 🧭 How I Work
 
-- 🎯 **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
-- 🧪 **Test fairly:** I evaluate results on data that was not used for training or tuning.
-- 🧹 **Check the data first:** missing values, duplicates and odd values come before any analysis.
-- 📝 **Explain clearly:** I document my work and explain results in plain language, including the limitations.
-- 🔁 **Keep improving:** I finish each piece of work by noting what I would do next.
+- **Start simple:** I compare any model or solution with a simple baseline, so I know whether the extra complexity is worth it.
+- **Test fairly:** I evaluate results on data that was not used for training or tuning.
+- **Check the data first:** missing values, duplicates and odd values come before any analysis.
+- **Explain clearly:** I document my work and explain results in plain language, including the limitations.
+- **Keep improving:** I finish each piece of work by noting what I would do next.
 
 ---
 
