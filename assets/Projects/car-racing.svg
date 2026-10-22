@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="Car Racing Event Management System project card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a1f12"/>
+      <stop offset="1" stop-color="#14100b"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5A623"/>
+      <stop offset="1" stop-color="#6C63FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="417" height="227" rx="18" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="380" cy="30" r="70" fill="#F5A623" opacity="0.06"/>
+
+  <!-- category -->
+  <rect x="24" y="22" width="150" height="22" rx="11" fill="#F5A623" opacity="0.16"/>
+  <text x="99" y="37" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#F5A623">SOFTWARE DEVELOPMENT</text>
+
+  <!-- icon: checkered flag -->
+  <g transform="translate(332,22)">
+    <rect width="64" height="56" rx="12" fill="#ffffff" opacity="0.05"/>
+    <line x1="18" y1="10" x2="18" y2="46" stroke="#F5A623" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#ffffff">
+      <rect x="22" y="10" width="8" height="8"/>
+      <rect x="38" y="10" width="8" height="8"/>
+      <rect x="30" y="18" width="8" height="8"/>
+      <rect x="46" y="18" width="8" height="8"/>
+      <rect x="22" y="26" width="8" height="8"/>
+      <rect x="38" y="26" width="8" height="8"/>
+    </g>
+    <g fill="#ffffff" opacity="0.25">
+      <rect x="30" y="10" width="8" height="8"/>
+      <rect x="46" y="10" width="8" height="8"/>
+      <rect x="22" y="18" width="8" height="8"/>
+      <rect x="38" y="18" width="8" height="8"/>
+      <rect x="30" y="26" width="8" height="8"/>
+      <rect x="46" y="26" width="8" height="8"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="24" y="82" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#ffffff">Car Racing Event Management</text>
+
+  <!-- description -->
+  <text font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#d6c6b0">
+    <tspan x="24" y="108">Desktop application for managing race</tspan>
+    <tspan x="24" y="128">events and participants.</tspan>
+  </text>
+
+  <!-- type pill -->
+  <rect x="24" y="144" width="118" height="24" rx="12" fill="none" stroke="#F5A623" stroke-width="1.5"/>
+  <text x="83" y="160" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F5A623">Desktop App</text>
+
+  <!-- divider -->
+  <line x1="24" y1="184" x2="396" y2="184" stroke="#ffffff" opacity="0.08"/>
+
+  <!-- status -->
+  <circle cx="34" cy="206" r="5" fill="#F5A623">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="210" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#d6c6b0">Repository coming soon</text>
+</svg>
